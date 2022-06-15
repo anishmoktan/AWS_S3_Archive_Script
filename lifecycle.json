@@ -1,0 +1,13 @@
+{
+    "Rules": [
+        {
+            "ID": "Archive_2022",
+            "Status": "Enabled",
+            "Prefix": "",
+            "Transition": {
+                "Days": 30,
+                "StorageClass": "DEEP_ARCHIVE"
+            }
+        }
+    ]
+}
